@@ -3,6 +3,6 @@
 
 class luhn {
 public:
-    bool luhnAlgorithm(std::string number);
+    static bool luhnAlgorithm(std::string number);
 private:
 };
